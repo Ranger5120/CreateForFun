@@ -2,7 +2,7 @@ int ledDelay=3000;
 int redPin=10;
 int redPin2=4;
 int greenPin=8;
-int greenPin2=5;
+int greenPin2=7;
 int yellowPin=9;
 
 void setup()
@@ -38,4 +38,3 @@ void loop()
     delay(1000);
     digitalWrite(yellowPin,LOW);
 }
-
