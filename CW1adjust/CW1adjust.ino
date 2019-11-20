@@ -17,7 +17,7 @@ void loop()
     //state 1
     digitalWrite(redPin,HIGH);
     digitalWrite(greenPin2,HIGH);
-    delay(ledDelay);
+    delay(3000);
     digitalWrite(redPin,LOW);
     digitalWrite(greenPin2,LOW);
 
